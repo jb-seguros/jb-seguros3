@@ -1,0 +1,11 @@
+{
+ "aseguradora": "GNP",
+ "no_poliza": "GNP-2026-0001234",
+ "contratante": "MARIA FERNANDA LOPEZ RAMIREZ",
+ "vigencia_inicio": "2026-01-15",
+ "vigencia_fin": "2027-01-15",
+ "prima_total": 24500,
+ "forma_pago": "mensual",
+ "ramo": "gastos m",
+ "suma_asegurada": 5000000
+}
